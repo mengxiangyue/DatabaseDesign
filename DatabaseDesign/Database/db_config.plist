@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>upgrade </key>
+	<dict>
+		<key>1.0</key>
+		<array>
+			<string>alter TABLE easy add isEvaluated text;</string>
+		</array>
+	</dict>
+	<key>tables</key>
+	<array>
+		<string>easy</string>
+	</array>
+</dict>
+</plist>
